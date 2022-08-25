@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Zura Sudadze",
+      "email": "zura.sudadze@testtask.com",
+      "role": "Admin",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "fullName": "Danniel Blichman",
+      "email": "zura.blichman@testtask.com",
+      "role": "User",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "fullName": "Test Tester",
+      "email": "danniel.blichman@testtask.com",
+      "role": "Admin",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "fullName": "Moo Cowing",
+      "email": "Moo.blichman@testtask.com",
+      "role": "Admin",
+      "isActive": false
+    }
+  ]
+}
